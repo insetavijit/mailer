@@ -1,3 +1,52 @@
+
+
+
+#autoGens
+dist
+.bin
+# esc temp files:
+*.tmp.*
+*.temp.*
+
+
+
+
+
+
+# Only for Master branch WE Need to have package.json file
+# else we can genarate it with insGen
+# it will be Created by AutoGen
+package.json
+
+
+package-lock.json
+
+vl.json
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Logs
 logs
 *.log
